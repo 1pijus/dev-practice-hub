@@ -67,4 +67,9 @@ public class ProductServiceImpl implements IProductService {
 		System.out.println("Hello Dostoooooooooooooooooooooooovadzgzfsoooooooooooooooon!!!!!!!!!!!!!!!!!!!!!!!");
 	}
 	
+	public void add()
+	{
+		System.out.println("ProductServiceImpl.add()");
+	}
+	
 }
