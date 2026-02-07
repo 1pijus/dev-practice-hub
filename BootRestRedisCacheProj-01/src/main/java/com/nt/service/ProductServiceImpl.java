@@ -60,6 +60,7 @@ public class ProductServiceImpl implements IProductService {
 	}
 	
 	public void practiceGit() {
+		System.out.println("ProductServiceImpl.practiceGit()-------------------------------->");
 		System.out.println("ProductServiceImpl.practiceGit()");
 	}
 	
