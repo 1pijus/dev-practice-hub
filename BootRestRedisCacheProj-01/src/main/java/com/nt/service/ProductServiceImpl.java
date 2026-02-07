@@ -55,7 +55,7 @@ public class ProductServiceImpl implements IProductService {
 	
 	public void  sum()
 	{
-		System.out.println("ProductServiceImpl.sum() by Asish");
+		System.out.println("ProductServiceImpl.sum() by Asish changed 2nd time");
 	}
 	
 	public void practiceGit() {
