@@ -50,8 +50,13 @@ public class ProductServiceImpl implements IProductService {
 			return pid+" Product deleted successfully";
 		}
 		else
-			return "Hello product is not found for deletion";
+			return "!!!Hello product is not found for deletion";
 		  
+	}
+	
+	public void  sum()
+	{
+		System.out.println("ProductServiceImpl.sum()");
 	}
 	
 	
