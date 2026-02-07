@@ -59,7 +59,9 @@ public class ProductServiceImpl implements IProductService {
 		System.out.println("ProductServiceImpl.sum()");
 	}
 	
-	
+	public void practiceGit() {
+		System.out.println("ProductServiceImpl.practiceGit()");
+	}
 	
 
 }
