@@ -63,5 +63,10 @@ public class ProductServiceImpl implements IProductService {
 		System.out.println("ProductServiceImpl.practiceGit()");
 	}
 	
+	public void greet()
+	{
+		System.out.println("ProductServiceImpl.greet()----hii monoj");
+	}
+	
 
 }
