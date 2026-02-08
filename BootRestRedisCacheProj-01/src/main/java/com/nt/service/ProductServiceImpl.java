@@ -67,6 +67,11 @@ public class ProductServiceImpl implements IProductService {
 	}
 	
 	
+	public void division()
+	{
+		System.out.println("ProductServiceImpl.division()");
+	}
+	
 
 	
 	
