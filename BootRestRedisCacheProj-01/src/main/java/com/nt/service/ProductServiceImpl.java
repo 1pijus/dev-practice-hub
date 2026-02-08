@@ -71,9 +71,15 @@ public class ProductServiceImpl implements IProductService {
 		System.out.println("ProductServiceImpl.division()");
 	}
 
+<<<<<<< HEAD
 	public void substraction()
 	{
 		System.out.println("ProductServiceImpl.substraction()");
+=======
+	public void hello()
+	{
+		System.out.println("ProductServiceImpl.hello()");
+>>>>>>> stash
 	}
 	
 	
