@@ -8,6 +8,12 @@ public class UPI {
 		System.out.println("UPI.doPayment()");
 		
 		System.out.println("UPI.doPayment()");
+		
+	}
+	
+	public void checkBalance()
+	{
+		System.out.println("UPI.checkBalance()");
 	}
 	
 	public void doTransfer()
