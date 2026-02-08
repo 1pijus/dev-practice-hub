@@ -10,4 +10,9 @@ public class UPI {
 		System.out.println("UPI.doPayment()");
 	}
 	
+	public void doTransfer()
+	{
+		System.out.println("UPI.doTransfer()");
+	}
+	
 }
