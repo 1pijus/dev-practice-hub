@@ -6,6 +6,7 @@ public class Netbanking {
 	{
 		System.out.println("Netbanking.doPayment()");
 		System.out.println("Netbanking.doPayment()");
+		System.out.println("skdjbksjd");
 	}
 	
 }
