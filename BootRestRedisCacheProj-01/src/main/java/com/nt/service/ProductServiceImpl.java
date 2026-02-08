@@ -75,7 +75,10 @@ public class ProductServiceImpl implements IProductService {
 	
 
 
-	
+	public void hello()
+	{
+		System.out.println("ProductServiceImpl.hello()");
+	}
 	
 	
 
